@@ -1,0 +1,4 @@
+logpulse
+loggen
+*.log
+*.o
