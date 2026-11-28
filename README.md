@@ -6,6 +6,7 @@ Analizador concurrente de logs de servidor web en **C11** bajo Linux Ubuntu con 
 
 * **Juan Pablo Vergara Pinillos**
 * **Cristian Andrés Olivero Garzón**
+* **Andres **
 
 ## Arquitectura
 
